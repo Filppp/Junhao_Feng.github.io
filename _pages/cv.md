@@ -11,54 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Intelligent Manufacturing Engineering, North University of China (NUC), 2023 – 2027 (Expected) 
+  * School of Mechanical Engineering
+  * GPA: 4.02/ 5.0
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Computer Vision
+  * Object detection and image segmentation
+  * Visual inspection in manufacturing
+* Diffusion Models
+  * Generative models for design and synthesis
+  * Controllable generation of images
+* (Multimodal) Large Language Models
+  * Multimodal Large Language Model Fine-tuning and Deployment
+* Structural Design
+  * Conventional structural design
+  * AI-assisted design
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Honors & Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* *(2024.8)* — China University Students' Mechanical Engineering Innovation and Creativity Competition - Intelligent Manufacturing Competition - Industrial Artificial Intelligence Direction, **National First Prize**
+* *(2024.11)* — The Machine Learning Competition of Five Provinces in North China, **Provincial First Prize**
+* *(2025.8)* — National Undergraduate Electronic Design Competition - Shanxi Province (E Category), **Provincial First Prize**
+
+"2024年综合素质一等奖学金，2025年综合素质一等奖学金，2025年浙江滴水慈善基金会人本滴水卓越奖学金二等奖学金（全院本年级唯一）"
+"2024中北大学机械工程学院优秀共青团员"
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Programming Languages
+  * Python, C/C++
+* Deep Learning Frameworks
+  * PyTorch
+* CAD/CAE Software
+  * SolidWorks, UG NX
+* Other Tools
+  * Git, LaTeX, Linux, Ubuntu, Keil5, CubeMX
+
+Certification
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ * Siemens Digtal Industries Software Certification (2024.1)
+ * TUV Rheinland Certified Industrial Certification(2024.8-2027.7) NO.2024-B005052
