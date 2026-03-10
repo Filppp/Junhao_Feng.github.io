@@ -11,6 +11,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Personal Experience"
+    url: /experience/
+
+  - title: "Academic Competition"
+    url: /competition/
+
   # - title: "Talks"
   #   url: /talks/    
 
