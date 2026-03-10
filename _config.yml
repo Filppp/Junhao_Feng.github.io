@@ -28,20 +28,20 @@ author:
   pronouns         : "He"
   bio              : "A bachelor's student majoring in intelligent manufacturing engineering at the School of Mechanical Engineering,Computer vision, diffusion model, structural design."
   location         : "Taiyuan China"
-  employer         : "Noeth University of China(NUC)"
+  employer         : "North University of China(NUC)"
   uri              : # URL
   email            : "15366822011@163.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0004-7356-1885"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Filppp"
+  github           : "Filppp"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
