@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Intelligent Manufacturing Engineering, North University of China (NUC), 2023 – 2027 (Expected) 
   * School of Mechanical Engineering
-  * GPA: 4.02/ 5.0
+  * GPA: 4.03/ 5.0
 
 Research Interests
 ======
