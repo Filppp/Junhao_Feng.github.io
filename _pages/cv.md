@@ -31,9 +31,9 @@ Research Interests
 
 Honors & Awards
 ======
-* *(2024.8)* — China University Students' Mechanical Engineering Innovation and Creativity Competition - Intelligent Manufacturing Competition - Industrial Artificial Intelligence Direction, **National First Prize**
-* *(2024.11)* — The Machine Learning Competition of Five Provinces in North China, **Provincial First Prize**
-* *(2025.8)* — National Undergraduate Electronic Design Competition - Shanxi Province (E Category), **Provincial First Prize**
+* *(2024.8)* — [China University Students' Mechanical Engineering Innovation and Creativity Competition - Intelligent Manufacturing Competition - Industrial Artificial Intelligence Direction](/awards/mechanical-innovation-2024/), **National First Prize**
+* *(2024.11)* — [The Machine Learning Competition of Five Provinces in North China](/awards/ml-competition-2024/), **Provincial First Prize**
+* *(2025.8)* — [National Undergraduate Electronic Design Competition - Shanxi Province (E Category)](/awards/electronic-design-2025/), **Provincial First Prize**
 
 "2024年综合素质一等奖学金，2025年综合素质一等奖学金，2025年浙江滴水慈善基金会人本滴水卓越奖学金二等奖学金（全院本年级唯一）"
 "2024中北大学机械工程学院优秀共青团员"
