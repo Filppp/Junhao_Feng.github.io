@@ -25,7 +25,7 @@ lang_zh: /zh/competition/
 - Team: Junhao Feng, Jiayu Cui, Zihan Cheng
 - Advisor: Lifang Yan
 
-**[The Machine Learning Competition of Five Provinces in North China](/awards/ml-competition-2024/)**
+**[Robotics Competition of Five Provinces in North China](/awards/ml-competition-2024/)**
 *Nov. 2024 — Provincial First Prize*
 
 ---

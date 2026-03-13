@@ -25,7 +25,7 @@ lang_en: /competition/
 *2025年8月 — 省级一等奖*
 
 
-**[华北五省（市、自治区）大学生机器学习竞赛](/awards/ml-competition-2024/)**
+**[华北五省（市、自治区）大学生机器人竞赛](/awards/ml-competition-2024/)**
 *2024年11月 — 省级一等奖*
 
 
