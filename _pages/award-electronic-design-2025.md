@@ -36,7 +36,9 @@ author_profile: true
 
 ## 相关材料
 
-[竞赛中图片](/Junhao_Feng.github.io/images/awards/ds2.jpg)
-[组员图片](/Junhao_Feng.github.io/images/awards/ds1.jpg)
+![竞赛中图片](/Junhao_Feng.github.io/images/awards/ds2.jpg)
 
+![组员图片](/Junhao_Feng.github.io/images/awards/ds.jpg)
+
+![图片](/Junhao_Feng.github.io/images/awards/ds3.jpg)
 
