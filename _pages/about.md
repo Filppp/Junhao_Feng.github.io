@@ -9,8 +9,6 @@ lang: en
 lang_zh: /zh/
 ---
 
-邮箱：15366822011@163.com
-
 Student of the Intelligent Manufacturing Engineering Department of the Mechanical Engineering College of North University, currently enrolled in the 2023 grade. 
 
 My research focuses on the integration of mechanical engineering, computer vision, and deep learning. The main research directions include: target detection and defect recognition in industrial scenarios, the application of deep learning visual algorithms in intelligent robots and intelligent manufacturing; image generation models, etc.
