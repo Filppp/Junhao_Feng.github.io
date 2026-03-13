@@ -9,13 +9,6 @@ lang: en
 lang_zh: /zh/
 ---
 
-中北大学 机械工程学院 智能制造工程 2023 级在读本科生
-
-我的研究聚焦于机械工程、计算机视觉与深度学习的交叉融合，主要研究方向包括：工业场景下的目标检测与缺陷识别、深度学习视觉算法在智能机器人、智能制造中的落地应用；图像生成模型等。
-依托本科阶段的专业及自我拓展学习，我构建了扎实的机械设计、智能制造系统理论、智能计算方法基础；同时深耕计算机视觉与深度学习技术，熟练掌握 Python、PyTorch、OpenCV、嵌入式（keil5）等开发工具，具备深度学习模型、嵌入式、计算机视觉的实践能力。
-目前参与图像可控生成、机器视觉检测、智能装备相关科创项目 / 实验室研究，注重理论与工程实践结合，以解决工业智能化实际问题为研究目标。
-未来致力于在智能装备、机器视觉、工业人工智能、AIGC，机器人方向继续深造发展，欢迎进行交流、合作。
-
 邮箱：15366822011@163.com
 
 Student of the Intelligent Manufacturing Engineering Department of the Mechanical Engineering College of North University, currently enrolled in the 2023 grade. 

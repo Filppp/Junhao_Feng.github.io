@@ -35,8 +35,8 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
 
 
     
@@ -53,5 +53,8 @@ main-zh:
 
   - title: "学科竞赛"
     url: /zh/competition/
+
+  - title: "博客文章"
+    url: /zh/year-archive/
 
 

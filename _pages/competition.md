@@ -8,29 +8,29 @@ lang_zh: /zh/competition/
 
 ## National Level
 
-**National Undergraduate Innovation and Entrepreneurship Competition**
-*2024 — National Second Prize*
-- Project: *(Project Title)*
-- Responsible for algorithm design and experimental validation.
+**[China University Students' Mechanical Engineering Innovation and Creativity Competition — Intelligent Manufacturing (Industrial AI)](/awards/mechanical-innovation-2024/)**
+*Aug. 2024 — National First Prize*
+- Focused on Industrial Internet and Industrial AI.
+- My role: in a real-world gear manufacturing scenario with large-scale parameters, used classic machine learning methods (e.g., Random Forest, k-NN) for defect judgement; also implemented industrial vision algorithms (QR code recognition, edge detection, etc.) with OpenCV under varying environments.
+- Team: Junhao Feng, AoZhi Wang, Xinyi Chen
+- Advisors: Assoc. Prof. Chunyue Lu; Assoc. Prof. Huiying Ban
 
 ---
 
 ## Provincial Level
 
-**Provincial Mathematical Modeling Competition**
-*2023 — Provincial First Prize*
-- Developed mathematical models for optimization problems in manufacturing.
-- Led a team of 3 members to complete the full competition report.
+**[National Undergraduate Electronic Design Competition — Shanxi Province (E Category)](/awards/electronic-design-2025/)**
+*Aug. 2025 — Provincial First Prize*
+- My role: built a mobile-target recognition and tracking system based on OpenCV and a 2-axis stepper-motor gimbal; adjusted gimbal pose according to target location and implemented precise tracking; controlled a laser emitter for accurate targeting.
+- Team: Junhao Feng, Jiayu Cui, Zihan Cheng
+- Advisor: Lifang Yan
+
+**[The Machine Learning Competition of Five Provinces in North China](/awards/ml-competition-2024/)**
+*Nov. 2024 — Provincial First Prize*
 
 ---
 
-## School Level
+## Notes
 
-**University CAD/CAM Design Competition**
-*2023 — First Prize*
-- Designed and simulated a mechanical component using SolidWorks.
-
-**University Physics Experiment Competition**
-*2022 — Second Prize*
-- Designed an experimental scheme and data analysis pipeline.
+- Click each competition title to view the detailed page.
 
