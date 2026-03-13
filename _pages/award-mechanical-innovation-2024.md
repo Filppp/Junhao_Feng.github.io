@@ -36,6 +36,6 @@ author_profile: true
 
 ## 相关材料
 
-[竞赛中图片](/images/awards/znzz.jpg)
+![竞赛中图片](/Junhao_Feng.github.io/images/awards/znzz.jpg)
 
-[获奖图片](/images/awards/znzz2.jpg)
+![获奖图片](/Junhao_Feng.github.io/images/awards/znzz2.jpg)
