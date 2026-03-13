@@ -20,7 +20,7 @@ lang_zh: /zh/competition/
 ## Provincial Level
 
 **[National Undergraduate Electronic Design Competition — Shanxi Province (E Category)](/Junhao_Feng.github.io/awards/electronic-design-2025/)**
-*Aug. 2025 — Provincial First Prize*
+*Aug. 2025 — Provincial Second Prize*
 - My role: built a mobile-target recognition and tracking system based on OpenCV and a 2-axis stepper-motor gimbal; adjusted gimbal pose according to target location and implemented precise tracking; controlled a laser emitter for accurate targeting.
 - Team: Junhao Feng, Jiayu Cui, Zihan Cheng
 - Advisor: Lifang Yan
