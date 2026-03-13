@@ -1,6 +1,6 @@
 ---
 title: 'Prefix Sum and Partial Summary Sharing (Python Implementation)'
-date: 2026-03-13
+date: 2026-03-11
 permalink: /posts/2026/03/prefix-sum-python/
 tags:
   - Python

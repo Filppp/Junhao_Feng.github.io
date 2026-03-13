@@ -1,6 +1,6 @@
 ---
 title: '前缀和部分总结分享（Python实现版）'
-date: 2026-03-13
+date: 2026-03-11
 permalink: /zh/posts/2026/03/prefix-sum-python/
 tags:
   - Python
