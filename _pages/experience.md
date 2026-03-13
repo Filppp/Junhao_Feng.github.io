@@ -2,6 +2,8 @@
 permalink: /experience/
 title: "Personal Experience"
 author_profile: true
+lang: en
+lang_zh: /zh/experience/
 ---
 
 ## Research Experience

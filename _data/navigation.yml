@@ -41,14 +41,17 @@ main:
 
     
 
-  # - title: "CV"
+main-zh:
+  - title: "简历"
+    url: /zh/cv/
 
-  #   url: /cv-json/
+  - title: "论文发表"
+    url: /zh/publications/
 
-    
+  - title: "个人经历"
+    url: /zh/experience/
 
-  # - title: "Guide"
-
-  #   url: /markdown/
+  - title: "学科竞赛"
+    url: /zh/competition/
 
 

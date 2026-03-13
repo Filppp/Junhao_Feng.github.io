@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+lang: en
+lang_zh: /zh/cv/
 ---
 
 {% include base_path %}

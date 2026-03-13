@@ -1,0 +1,26 @@
+---
+layout: archive
+title: "论文发表"
+permalink: /zh/publications/
+author_profile: true
+lang: zh
+lang_en: /publications/
+---
+
+{% include base_path %}
+
+{% assign publications_by_category = site.publications | group_by: 'category' %}
+
+{% for category in site.publication_category %}
+  {% assign cat_key = category[0] %}
+  {% assign cat_val = category[1] %}
+  {% assign pubs = site.publications | where: 'category', cat_key %}
+  {% if pubs.size > 0 %}
+    <h2>{{ cat_val.title }}</h2>
+    {% for post in pubs reversed %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+

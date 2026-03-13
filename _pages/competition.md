@@ -2,6 +2,8 @@
 permalink: /competition/
 title: "Academic Competition"
 author_profile: true
+lang: en
+lang_zh: /zh/competition/
 ---
 
 ## National Level

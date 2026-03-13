@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+lang: en
+lang_zh: /zh/
 ---
 
 中北大学 机械工程学院 智能制造工程 2023 级在读本科生
