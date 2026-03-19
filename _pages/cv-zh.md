@@ -39,11 +39,11 @@ lang_en: /cv/
 * 2025年浙江滴水慈善基金会人本滴水卓越奖学金二等奖学金（全院本年级唯一）
 * 2024年中北大学机械工程学院优秀共青团员
 
-论文发表
+<!-- 论文发表
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 技能
 ======

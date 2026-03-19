@@ -40,12 +40,12 @@ Honors & Awards
 "First-Class Scholarship for Comprehensive Quality in 2024, First-Class Scholarship for Comprehensive Quality in 2025, Second-Class Scholarship for Outstanding Humanistic Achievement from Zhejiang Dihui Charity Foundation in 2025 (the only one among the same grade in the entire school)"
 "Outstanding Communist Member of the Mechanical Engineering College of North University in 2024"
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 Skills
 ======
 * Programming Languages
